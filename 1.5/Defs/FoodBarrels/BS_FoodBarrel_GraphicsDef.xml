@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+    <!-- Core -->
+    <!-- RawFungus [x] -->
+    <!-- Kibble [ ] -->
     <AdaptiveStorage.GraphicsDef ParentName="BasicStorageFoodBarrelBase">
         <defName>BasicStorageFoodBarrelFungus</defName>
         <graphics>
