@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Basic Storage - Vanilla Plants Expanded Patch</name>
+	<packageId>Blackmoor.BasicStorage.VPEPatch</packageId>
+	<author>Blackmoor</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Adds Plants from the Vanilla Plants Expanded series to the food barrels of Basic Storage.\nWork in progress. Not all are currently supported,</description>
+	<modDependencies>
+		<li>
+            <packageId>phaneron.basic.storage</packageId>
+            <displayName>Phaneron's Basic Storage</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+        <li>phaneron.basic.storage</li>
+        <li>VanillaExpanded.VPlantsE</li>
+        <li>VanillaExpanded.VPlantsEMore</li>
+	</loadAfter>
+</ModMetaData>
