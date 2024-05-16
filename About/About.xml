@@ -11,6 +11,7 @@
 		<li>
             <packageId>phaneron.basic.storage</packageId>
             <displayName>Phaneron's Basic Storage</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3237638097</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
